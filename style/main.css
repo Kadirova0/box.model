@@ -1,0 +1,41 @@
+.Country {
+    height: 200px;
+    width: 200px;
+    margin-right: 10px;
+    padding: 5px 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: green;
+    background-size: cover;
+    display: inline-block;
+}
+
+.Portugal {
+    background-image: url(https://www.traveloffpath.com/wp-content/uploads/2022/10/Why-Portugal-Has-Become-One-Of-The-Most-Popular-Destinations-Of-The-Year-.jpg);
+border-radius: 25%;
+}
+.Portugal p {
+ color:black;
+}
+.Sweden {
+    background-image: url(https://cdn.theculturetrip.com/wp-content/uploads/2017/10/lappland-2.jpg);
+border-top-right-radius: 10%;
+}
+.Sweden p {
+    color: white;
+}
+.Sweden h3 {
+    color: white;
+}
+.Japan {
+    background-image: url(https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg);
+border-radius: 25%;
+}
+.Barcelona {
+    background-image: url(https://lp-cms-production.imgix.net/2019-06/8ae1c56041e64517e29372a889f1beb7-la-sagrada-familia.jpg);
+border-bottom-right-radius: 10%;
+}
+.Brazil {
+    background-image: url(https://www.celebritycruises.com/blog/content/uploads/2021/09/what-is-brazil-known-for-christ-the-redeemer-aerial-hero-1920x890.jpg);
+border-radius: 25%;
+}
