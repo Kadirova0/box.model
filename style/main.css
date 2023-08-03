@@ -35,7 +35,8 @@ border-radius: 25%;
     background-image: url(https://lp-cms-production.imgix.net/2019-06/8ae1c56041e64517e29372a889f1beb7-la-sagrada-familia.jpg);
 border-bottom-right-radius: 10%;
 }
-.Brazil {
+.Brazil  {
     background-image: url(https://www.celebritycruises.com/blog/content/uploads/2021/09/what-is-brazil-known-for-christ-the-redeemer-aerial-hero-1920x890.jpg);
 border-radius: 25%;
+margin-right: 0;
 }
